@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Maurya Jal Manager",
+  "short_name": "Maurya Jal",
+  "description": "Water plant customer, 20-litre jar, payment and subscription manager.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f8f7",
+  "theme_color": "#073b4c",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
